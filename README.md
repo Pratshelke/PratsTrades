@@ -8,7 +8,7 @@ A paper-trading Android app for Indian markets. It streams real-time NSE and BSE
 
 <p><img src="screenshots/home.png" width="200" alt="home screen"> <img src="screenshots/chart.png" width="200" alt="chart screen"> <img src="screenshots/option-chain.png" width="200" alt="option-chain screen"> <img src="screenshots/journal.png" width="200" alt="journal screen"> </p>
 
-All screens show sample data.
+Market data is real. The account and trades are paper money.
 
 ## What it does
 
