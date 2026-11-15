@@ -4,7 +4,11 @@ A paper-trading Android app for Indian markets. It streams real-time NSE and BSE
 
 > This is a showcase repository. The source code is private; a walkthrough is available on request.
 
-<!-- Screenshots: add 3-4 images here, taken with demo data only -->
+## Screenshots
+
+<p><img src="screenshots/home.png" width="200" alt="home screen"> <img src="screenshots/chart.png" width="200" alt="chart screen"> <img src="screenshots/option-chain.png" width="200" alt="option-chain screen"> <img src="screenshots/journal.png" width="200" alt="journal screen"> </p>
+
+All screens show sample data.
 
 ## What it does
 
